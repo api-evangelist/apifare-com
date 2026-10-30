@@ -64,5 +64,120 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-apifare-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://apifare.com/
+Apifare provides a prepaid, capped, auditable API balance for AI agents, enabling a single key to access any API the agent calls. Users receive a virtual fare card that tracks usage, enforces hard caps, and offers a kill‑switch with signed receipts for each transaction. The service includes free starter credits, transparent pricing, and integrates with major AI models and tooling, positioning it as a universal billing layer for autonomous agents.
+
+**Areas:** AI · Payments · Prepaid · Billing · Agent
+
+## apifare-com on APIs.io
+
+Everything profiled for apifare-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/apifare-com/](https://apis.io/providers/apifare-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Apifare API](https://apis.io/apis/apifare-com/apifare-api/) — Human docs for apifare: get a key, connect your agent, how the prepaid balance, caps and 402 top-ups work, and the API reference.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Apifare Com Agentic Access](https://apis.io/agentic-access/apifare-com/apifare-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [apifare-com API Rules](https://apis.io/rules/apifare-com/apifare-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Apifare Com Authentication](https://apis.io/security/apifare-com/apifare-com-authentication/)
+- [Apifare Com Domain Security](https://apis.io/security/apifare-com/apifare-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Apifare Com Plans Pricing](https://apis.io/plans/apifare-com/apifare-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Apifare Com Rate Limits](https://apis.io/rate-limits/apifare-com/apifare-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://apifare.com/)
+- [Documentation](https://apifare.com/docs)
+- [Getting started](https://apifare.com/docs#get-started)
+- [API reference](https://apifare.com/docs#api)
+- [Pricing](https://apifare.com/docs#pricing)
+- [Sign up](https://apifare.com/start?origin=site)
+- [Support](https://apifare.com/terms)
+- [Blog](https://apifare.com/blog)
+- [Terms of service](https://apifare.com/terms)
+- [Privacy policy](https://apifare.com/privacy)
+- [GitHub](https://github.com/apifare)
+
+## API Evangelist rating
+
+**Kin Score 42.0** — developing · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.7 |
+| Contract quality | 0.0 |
+| Contract governance | 57.3 |
+| Operational transparency | 24.2 |
+| Developer ergonomics | 61.9 |
+| Access clarity | 63.7 |
+
+**Agent readiness 17.5** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | documented (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 20.8** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/apifare-com/](https://apis.io/providers/apifare-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for apifare-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/apifare-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
